@@ -1,7 +1,7 @@
 # Experiment 4: Error Detection and Correction Mechanisms Using Block Coding and CRC
 
 **Institution:** K.R. Mangalam University  
-**Author:** Bunty Verma Chaudhari
+
 
 ---
 
