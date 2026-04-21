@@ -1,5 +1,5 @@
 # Experiment 5: Flow Control and Error Control Protocols
-**Institution:** K.R. Mangalam University | **Author:** Bunty Verma Chaudhari
+**Institution:** K.R. Mangalam University 
 
 ## Objective
 Design and simulate flow control and error control protocols such as Stop and Wait, Go-Back-N ARQ, and Selective Repeat ARQ using Cisco Packet Tracer to compare their performance under varying network conditions.
