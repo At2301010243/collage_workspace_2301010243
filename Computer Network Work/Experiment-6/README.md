@@ -19,6 +19,8 @@ Develop a simulation to demonstrate multiple access protocols (Pure ALOHA, Slott
 ![Shared Medium Topology](./screenshots/topology.jpeg)
 *(Above: A shared medium network topology utilizing a Hub to force a single collision domain).*
 
+![Shared Medium Topology](./screenshots/topology(a).jpeg)
+*(Above: A shared medium network topology utilizing a Hub to force a single collision avoid).*
 ---
 
 ## Step-by-step Procedure
