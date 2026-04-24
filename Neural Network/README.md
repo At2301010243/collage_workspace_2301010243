@@ -46,8 +46,9 @@ Basic array manipulation, matrix operations, and numerical computation.
 Vectorization is critical for performance in machine learning pipelines.
 
 **Output**
-![Output](Ex-1 Numpy/Ex-1 output(a).jpeg)
-![Output](Ex-1 Numpy/Ex-1 output(b).jpeg)
+
+![Output](Ex-1_Numpy/Ex-1_output(a).jpeg)
+![Output](Ex-1_Numpy/Ex-1_output(b).jpeg)
 
 ---
 
@@ -58,7 +59,8 @@ DataFrame creation, feature addition, and aggregation using group-by.
 Data preprocessing is often more important than the model itself.
 
 **Output**
-![Output](./Ex-2 output.jpeg)
+
+![Output](Ex-2_Pandas/Ex-2_output.jpeg)
 
 ---
 
@@ -69,8 +71,9 @@ Root finding, optimization, sparse matrices, and distance calculations.
 Optimization is the backbone of training neural networks.
 
 **Output**
-![Output](./Ex-3 output(a).jpeg)
-![Output](./Ex-3 output(b).jpeg)
+
+![Output](Ex-3_Sicpy/Ex-3_output(a).jpeg)
+![Output](Ex-3_Sicpy/Ex-3_output(b).jpeg)
 
 ---
 
@@ -81,7 +84,8 @@ Plotting sine wave using Matplotlib.
 Visualization helps in understanding function behavior and model outputs.
 
 **Output**
-![Output](./Ex-4 output.jpeg)
+
+![Output](Ex-4_Matplotlib/Ex-4_output.jpeg)
 
 ---
 
@@ -94,7 +98,8 @@ Implements a basic perceptron using weight updates.
 - Fails on XOR problem  
 
 **Output**
-![Output](./Ex-5 output.jpeg)
+
+![Output](Ex-5_Perceptron/Ex-5_output.jpeg)
 
 ---
 
@@ -106,7 +111,8 @@ Uses hidden layers to solve a non-linear classification problem.
 Adding hidden layers introduces non-linearity, enabling complex decision boundaries.
 
 **Output**
-![Output](./Ex-6 output.jpeg)
+
+![Output](Ex-6_XOR_(MLP)/Ex-6_output.jpeg)
 
 ---
 
@@ -123,7 +129,8 @@ Visualization of Sigmoid, ReLU, and Linear functions.
 | Linear | Simple | No learning power |
 
 **Output**
-![Output](./Ex-7 output.jpeg)
+
+![Output](Ex-7_Activation_Function/Ex-7_output.jpeg)
 
 ---
 
@@ -135,7 +142,8 @@ Implementation using Scikit-learn.
 MLPs approximate complex functions but require proper tuning.
 
 **Output**
-![Output](./Ex-8 output.jpeg)
+
+![Output](Ex-8_MLP/Ex-8_output.jpeg)
 
 ---
 
@@ -152,7 +160,8 @@ MLPs approximate complex functions but require proper tuning.
 | RNN | Sequential memory | Time series |
 
 **Output**
-![Output](./Ex-9 output.jpeg)
+
+![Output](Ex-9_RNN_CNN/Ex-9_output.jpeg)
 
 ---
 
@@ -164,7 +173,8 @@ Basic regression model using optimization.
 Serves as the foundation for gradient-based learning.
 
 **Output**
-![Output](./Ex-10 output.jpeg)
+
+![Output](Ex-10_Optimizer_Alternative/Ex-10_output.jpeg)
 
 ---
 
@@ -176,7 +186,8 @@ Implements associative memory.
 Recalls stored patterns from incomplete or noisy input.
 
 **Output**
-![Output](./Ex-11 output.jpeg)
+
+![Output](Ex-11_Hopfield/Ex-11_output.jpeg)
 
 ---
 
